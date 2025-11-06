@@ -30,7 +30,12 @@ Requisitos:
    git clone https://github.com/Cristianco9/univalle-taller-2-so.git
    ```
 
-2. Ejecuta el programa:
+2. Diríjase al directorio del proyecto:
+   ```
+   cd univalle-taller-2-so
+   ```
+
+3. Ejecuta el programa:
    ```
    python3 src/satellite_sim.py
    ```
