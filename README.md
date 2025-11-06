@@ -92,6 +92,8 @@ Calculate control output
 
 ## 👨‍💻 Autor
 
-> **Cristian Camilo Cortes Ortiz**
-      Desarrollador de Software
-      202478542
+**Cristian Camilo Cortes Ortiz**
+
+Desarrollador de Software
+
+202478542
