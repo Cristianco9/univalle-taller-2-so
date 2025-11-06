@@ -47,7 +47,7 @@ Ventajas:
 
 ## 📊 Ejemplo de salida
 
-```JSON
+```
 ==============================
 [Proceso: SensorThread]
 
